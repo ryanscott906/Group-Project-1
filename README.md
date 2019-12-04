@@ -1,8 +1,8 @@
 # CryptoStock
-
+Link: https://ryanscott906.github.io/Group-Project-1/
 ## Overview
 
-CryptoStock is an application available on the user's browser. This application displays a companies current market share data (in USD) and its value in the selected cryptocurrency.
+CryptoStock is an application available on the user's browser. This application displays a company's current market share data (in USD) and its value in the selected cryptocurrency.
 
 Upon loading the application CryptoStock presents a table with five of the best-performing companies in the world along with their current price per share, the volume of shares, and their value in cryptocurrency. When the user searches a company via the search bar at the top of the page, the respective information for that company is prepended to the table.
 
